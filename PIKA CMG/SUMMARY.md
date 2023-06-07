@@ -1,0 +1,18 @@
+# Table of contents
+
+* [💊 CMG Licenses](README.md)
+  * [Copper](cmg-licenses/copper.md)
+  * [Limestone](cmg-licenses/limestone.md)
+  * [Gold](cmg-licenses/gold.md)
+  * [Weed](cmg-licenses/weed.md)
+  * [Cocaine](cmg-licenses/cocaine.md)
+  * [Meth](cmg-licenses/meth.md)
+  * [Gang](cmg-licenses/gang.md)
+  * [Pilots](cmg-licenses/pilots.md)
+  * [Diamond](cmg-licenses/diamond.md)
+  * [Heroin](cmg-licenses/heroin.md)
+  * [Rebel](cmg-licenses/rebel.md)
+  * [LSD](cmg-licenses/lsd.md)
+  * [Advanced Rebel](cmg-licenses/advanced-rebel.md)
+  * [DJ](cmg-licenses/dj.md)
+  * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
