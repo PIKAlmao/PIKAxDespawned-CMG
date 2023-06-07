@@ -16,3 +16,4 @@
   * [Advanced Rebel](cmg-licenses/advanced-rebel.md)
   * [DJ](cmg-licenses/dj.md)
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
+* [CMG](cmg.md)
