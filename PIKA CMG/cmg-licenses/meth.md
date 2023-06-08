@@ -47,3 +47,13 @@ description: Information about Meth-License
 <figure><img src="../.gitbook/assets/Meth sell 2.png" alt=""><figcaption><p>Sell area</p></figcaption></figure>
 
 </div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/METH SELL 3.png" alt=""><figcaption><p>Payment for 1 meth</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/METH SELL 4.png" alt=""><figcaption><p>Dirty cash</p></figcaption></figure>
+
+</div>
