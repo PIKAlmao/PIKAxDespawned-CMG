@@ -4,6 +4,10 @@ description: Information about Gang-license
 
 # Gang
 
+## License Cost: <mark style="color:blue;">£1,500,000</mark>
+
+
+
 After purchasing the "Gang license, you will be able to press <mark style="color:red;">**shift+f5**</mark> ,which will then pull up a menu like the following:
 
 <figure><img src="../.gitbook/assets/Gang license 1.png" alt=""><figcaption><p>Main menu</p></figcaption></figure>
