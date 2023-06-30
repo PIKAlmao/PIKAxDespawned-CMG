@@ -53,10 +53,12 @@ Within the turfs page, you can see the commission on a specific turf, and how mu
 
 ### Security:
 
-_**MORE TO COME SOON**_
+Within the advanced gang license security you can set a limit to how much players within your gang can withdraw per day. You can also set it so then players can't actually withdraw more than they have deposited which is very handy.
+
+<figure><img src="../.gitbook/assets/gang license security.png" alt=""><figcaption></figcaption></figure>
 
 ### Guest:&#x20;
 
 The guest license will already be self explanatory within the category.
 
-<figure><img src="../.gitbook/assets/gang license 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gang license 7.png" alt=""><figcaption><p>Gang license guests</p></figcaption></figure>
