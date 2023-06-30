@@ -45,6 +45,12 @@ In the members list this allows you to select a gang as a prioirity by selecting
 
 <figure><img src="../.gitbook/assets/adv gang license settings 2.png" alt=""><figcaption><p>Advanced gang license members</p></figcaption></figure>
 
+### Advanced gang license with all of the settings enabled:
+
+(blips on, names on, pings on), you need a gang radio to be able to use these features aswell.
+
+<figure><img src="../.gitbook/assets/advanced gang license settings.png" alt=""><figcaption></figcaption></figure>
+
 ### Turfs:
 
 Within the turfs page, you can see the commission on a specific turf, and how much that gang has made from owning that turf, the turfs menu only gets updated every 15 minutes to prevent power-gaming.
