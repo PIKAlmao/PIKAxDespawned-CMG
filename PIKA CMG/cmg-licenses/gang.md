@@ -4,7 +4,9 @@ description: Information about Gang-license
 
 # Gang
 
-## License Cost: <mark style="color:blue;">£1,500,000</mark>
+## Gang license cost: <mark style="color:blue;">£1,500,000</mark>
+
+## Advanced gang license cost: <mark style="color:blue;">£50,000,000</mark>
 
 
 
@@ -33,9 +35,15 @@ With the logs, it allows you to see all money that's been added / withdrawn from
 
 ### Settings:
 
-This allows you to control the <mark style="color:red;">advanced gang license</mark> settings. _**MORE TO COME SOON**_
+This allows you to control the <mark style="color:red;">advanced gang license</mark> settings ie, turning on blips, enabling pings and showing your team mates names above their heads.
 
-<figure><img src="../.gitbook/assets/gang license 5.png" alt=""><figcaption><p>Settings menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/adv gang license settings.png" alt=""><figcaption><p>Advanced gang license settings</p></figcaption></figure>
+
+### Advanced gang license members:
+
+In the members list this allows you to select a gang as a prioirity by selecting "set as selected" for the advanced gang license which will allow you to enable the advanced gang license settings or "remove selection" which turns all of the features off and sets you back as your normal gang, also you have to have a "gang radio" on you and to also pin the members in your gang to be able to see their names above their heads and blips.
+
+<figure><img src="../.gitbook/assets/adv gang license settings 2.png" alt=""><figcaption><p>Advanced gang license members</p></figcaption></figure>
 
 ### Turfs:
 
