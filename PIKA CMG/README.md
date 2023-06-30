@@ -6,7 +6,7 @@ description: CMG socials
 
 ### <mark style="color:blue;">**Welcome to CMG**</mark>                                                           &#x20;
 
-![:CMG2:](https://cdn.discordapp.com/emojis/946953191663210516.webp?size=44\&quality=lossless) - Website - http://www.cmgstudios.net/ \
+![:CMG2:](https://cdn.discordapp.com/emojis/946953191663210516.webp?size=44\&quality=lossless) - Website - [http://www.cmgstudios.net/](./#welcome-to-cmg) \
 ![:twitter:](https://cdn.discordapp.com/emojis/706154038944727100.webp?size=44\&quality=lossless) - Twitter - https://twitter.com/CMGFiveM\
 ![:youtube:](https://cdn.discordapp.com/emojis/771201045870805043.webp?size=44\&quality=lossless) - Youtube - https://www.youtube.com/c/CMGFiveM\
 ![🔨](https://discord.com/assets/767059c01f5e1967080e803b9ac9ff42.svg) - Rules - https://cmgstudios.net/forums/index.php?/fivem-rules/\
