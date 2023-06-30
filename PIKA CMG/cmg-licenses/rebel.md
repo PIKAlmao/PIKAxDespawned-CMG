@@ -10,11 +10,11 @@ description: information about rebel-license
 
 <div>
 
-<figure><img src="../.gitbook/assets/Rebel 4.png" alt=""><figcaption><p>Rebel waypoint</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Rebel 4.png" alt=""><figcaption><p>Rebel waypoint location 1</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/rebel1.png" alt=""><figcaption><p>Rebel area</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/rebel1.png" alt=""><figcaption><p>Rebel area 1</p></figcaption></figure>
 
 </div>
 
@@ -33,3 +33,13 @@ Once purchasing the rebel license, you can access to multiple perks, like the gu
 </div>
 
 ### Rebel gun shop location 2:
+
+<div>
+
+<figure><img src="../.gitbook/assets/Rebel5.png" alt=""><figcaption><p>Rebel waypoint location 2</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Rebel6.png" alt=""><figcaption><p>Rebel area 2</p></figcaption></figure>
+
+</div>
