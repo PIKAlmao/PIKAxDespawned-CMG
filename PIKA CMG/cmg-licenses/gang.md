@@ -68,3 +68,31 @@ Within the advanced gang license security you can set a limit to how much player
 The guest license will already be self explanatory within the category.
 
 <figure><img src="../.gitbook/assets/gang license 7.png" alt=""><figcaption><p>Gang license guests</p></figcaption></figure>
+
+### Large arms gun shop location 1:
+
+At the gun shop you can buy weapons and level up to stage 2 (50%).
+
+<div>
+
+<figure><img src="../.gitbook/assets/Large arms v1.png" alt=""><figcaption><p>Large arms waypoint location 1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Gang license v1 1.png" alt=""><figcaption><p>Large arms area location 1</p></figcaption></figure>
+
+</div>
+
+### Large arms gun shop location 2:
+
+At the gun shop you can buy weapons and level up to stage 2 (50%).
+
+<div>
+
+<figure><img src="../.gitbook/assets/Large arms v2.png" alt=""><figcaption><p>Large arms waypoint location 2</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Large arms v2 2.png" alt=""><figcaption><p>Large arms area location 2</p></figcaption></figure>
+
+</div>
