@@ -43,3 +43,17 @@ Once purchasing the rebel license, you can access to multiple perks, like the gu
 <figure><img src="../.gitbook/assets/Rebel6.png" alt=""><figcaption><p>Rebel area 2</p></figcaption></figure>
 
 </div>
+
+### Rebel respawn:
+
+Along with owning rebel, you gain access to a new respawn location, being at the rebel gun shop location 1.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Rebel 7.png" alt=""><figcaption><p>Rebel  respawn menu</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Rebel8.png" alt=""><figcaption><p>Rebel respawn location</p></figcaption></figure>
+
+</div>
