@@ -1,6 +1,7 @@
 # Table of contents
 
-* [💊 CMG Licenses](README.md)
+* [CMG](README.md)
+* [💊 CMG Licenses](<README (1).md>)
   * [Copper](cmg-licenses/copper.md)
   * [Limestone](cmg-licenses/limestone.md)
   * [Gold](cmg-licenses/gold.md)
@@ -16,5 +17,4 @@
   * [Advanced Rebel](cmg-licenses/advanced-rebel.md)
   * [DJ](cmg-licenses/dj.md)
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
-* [CMG](cmg.md)
 * [Basics for newbies](basics-for-newbies.md)
