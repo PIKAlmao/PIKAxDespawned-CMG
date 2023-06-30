@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to CMG](README.md)
+* [🌍 CMG Information book by PIKA/td5.](README.md)
 * [💊 CMG Licenses](<README (1).md>)
   * [Copper](cmg-licenses/copper.md)
   * [Limestone](cmg-licenses/limestone.md)
@@ -18,3 +18,4 @@
   * [DJ](cmg-licenses/dj.md)
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
 * [Basics for newbies](basics-for-newbies.md)
+* [Welcome to CMG](welcome-to-cmg.md)
