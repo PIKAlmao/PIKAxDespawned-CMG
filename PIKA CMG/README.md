@@ -2,7 +2,7 @@
 description: CMG socials
 ---
 
-# CMG
+# Welcome to CMG
 
 ### <mark style="color:blue;">**Welcome to CMG**</mark>                                                           &#x20;
 

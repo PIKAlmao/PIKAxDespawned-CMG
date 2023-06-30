@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CMG](README.md)
+* [Welcome to CMG](README.md)
 * [💊 CMG Licenses](<README (1).md>)
   * [Copper](cmg-licenses/copper.md)
   * [Limestone](cmg-licenses/limestone.md)
