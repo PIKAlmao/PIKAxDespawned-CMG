@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🌍 CMG Information book by PIKA/td5.](README.md)
-* [💊 CMG Licenses](<README (1).md>)
+* [💊 CMG Licenses](README.md)
   * [Copper](cmg-licenses/copper.md)
   * [Limestone](cmg-licenses/limestone.md)
   * [Gold](cmg-licenses/gold.md)
