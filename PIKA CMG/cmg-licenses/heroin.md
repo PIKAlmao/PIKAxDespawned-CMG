@@ -1,6 +1,7 @@
 ---
 description: Information about Heroin-License
-coverY: 0
+cover: ../.gitbook/assets/download.jpg
+coverY: -37
 ---
 
 # Heroin
