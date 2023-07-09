@@ -1,6 +1,7 @@
 ---
 description: information about pilots-license
-coverY: 0
+cover: ../.gitbook/assets/BlackhawkPilot.png.0fd5c34f9afa45cd946700eadecb1d7d.png
+coverY: 174
 ---
 
 # Pilots

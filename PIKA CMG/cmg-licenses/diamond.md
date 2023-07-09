@@ -1,6 +1,7 @@
 ---
 description: Information about Diamond-License
-coverY: 0
+cover: ../.gitbook/assets/333_how-long-for-diamonds-to-form.png
+coverY: 208
 ---
 
 # Diamond
