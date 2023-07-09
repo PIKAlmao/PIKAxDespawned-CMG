@@ -1,6 +1,7 @@
 ---
 description: Information about Gang-license
-coverY: 0
+cover: ../.gitbook/assets/FqTe2gEXgAEn92q.jpg
+coverY: 12
 ---
 
 # Gang
