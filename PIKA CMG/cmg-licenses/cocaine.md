@@ -1,6 +1,7 @@
 ---
 description: Information about Cocaine-License
-coverY: 0
+cover: ../.gitbook/assets/cocaine-addiction-powder.png
+coverY: -289
 ---
 
 # Cocaine
