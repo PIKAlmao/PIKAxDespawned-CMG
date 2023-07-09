@@ -1,6 +1,7 @@
 ---
 description: Information about Copper-License
-coverY: 0
+cover: ../.gitbook/assets/copper (1).jpg
+coverY: -259
 ---
 
 # Copper
