@@ -1,7 +1,7 @@
 ---
 description: information about rebel-license
 cover: ../.gitbook/assets/ttttttttttttttttttttttttttttttttttt4444444.png
-coverY: 68
+coverY: 54.21643286573146
 ---
 
 # Rebel
