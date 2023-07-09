@@ -1,7 +1,7 @@
 ---
 description: Information about Meth-License
-cover: ../.gitbook/assets/images.jpg
-coverY: 134
+cover: ../.gitbook/assets/E57NFCU2IZBNTLTRG4F274NCIQ.jpg
+coverY: -18
 ---
 
 # Meth
