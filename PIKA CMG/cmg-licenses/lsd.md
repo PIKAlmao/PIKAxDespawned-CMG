@@ -1,6 +1,7 @@
 ---
 description: Information about LSD-License
-coverY: 0
+cover: ../.gitbook/assets/1624027774644-product.webp
+coverY: -166
 ---
 
 # LSD
