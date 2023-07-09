@@ -1,6 +1,7 @@
 ---
 description: information about rebel-license
-coverY: 0
+cover: ../.gitbook/assets/gang_1.png
+coverY: -67
 ---
 
 # Rebel
