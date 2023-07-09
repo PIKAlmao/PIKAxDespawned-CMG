@@ -1,6 +1,7 @@
 ---
 description: Information about Advanced:Rebel-License
-coverY: 0
+cover: ../.gitbook/assets/IMG_9836.jpg
+coverY: 35
 ---
 
 # Advanced Rebel
