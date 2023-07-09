@@ -17,4 +17,6 @@ coverY: 0
 ![:store:](https://cdn.discordapp.com/emojis/760885254764101692.webp?size=44\&quality=lossless) - Store - [https://store.cmgstudios.net/](https://store.cmgstudios.net/)\
 ![:teamspeak:](https://cdn.discordapp.com/emojis/697863501804208278.webp?size=44\&quality=lossless) - Teamspeak3 - ts.cmgstudios.net\
 &#x20;![:fivem:](https://cdn.discordapp.com/emojis/280211198597660672.webp?size=44\&quality=lossless) - FiveM Server 1 IP - s1.cmg.city\
-&#x20;![:angular\_discord:](https://cdn.discordapp.com/emojis/856646359276585001.webp?size=44\&quality=lossless) - https:/discord.gg/cmg\
+&#x20;![:angular\_discord:](https://cdn.discordapp.com/emojis/856646359276585001.webp?size=44\&quality=lossless) - https:/discord.gg/cmg
+
+### _<mark style="color:blue;">A Guide to the CMG licenses and some other useful information by PIKA/td5.</mark>_&#x20;
