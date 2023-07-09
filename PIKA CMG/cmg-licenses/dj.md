@@ -1,5 +1,6 @@
 ---
 description: Information about DJ-License
+cover: ../.gitbook/assets/Desktop_Screenshot_2022.06.26_-_00.53.33.98.png
 coverY: 0
 ---
 
