@@ -1,6 +1,8 @@
 ---
 description: Information about Gold-License
-coverY: 0
+cover: >-
+  ../.gitbook/assets/area-which-nugget-was-found-known-golden-triangle-due-its-rich-veins-which-sparked-gold.jpg
+coverY: 149
 ---
 
 # Gold
