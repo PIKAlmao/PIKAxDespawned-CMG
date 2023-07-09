@@ -1,5 +1,7 @@
 ---
 description: License information
+cover: .gitbook/assets/useas.png.753a204f69a31cb63740eed5d5c9cf3d.png
+coverY: 0
 ---
 
 # 💊 CMG Licenses

@@ -1,5 +1,6 @@
 ---
 description: Information about Long:Range:Emergency:Blips-License
+coverY: 0
 ---
 
 # Long-Range Emergency Blips

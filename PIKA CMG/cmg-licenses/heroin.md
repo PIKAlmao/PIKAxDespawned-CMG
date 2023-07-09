@@ -1,5 +1,6 @@
 ---
 description: Information about Heroin-License
+coverY: 0
 ---
 
 # Heroin

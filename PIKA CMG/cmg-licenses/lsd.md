@@ -1,5 +1,6 @@
 ---
 description: Information about LSD-License
+coverY: 0
 ---
 
 # LSD

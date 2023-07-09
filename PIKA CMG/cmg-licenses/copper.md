@@ -1,5 +1,6 @@
 ---
 description: Information about Copper-License
+coverY: 0
 ---
 
 # Copper

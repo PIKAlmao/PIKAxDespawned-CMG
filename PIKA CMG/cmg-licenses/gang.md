@@ -1,5 +1,6 @@
 ---
 description: Information about Gang-license
+coverY: 0
 ---
 
 # Gang

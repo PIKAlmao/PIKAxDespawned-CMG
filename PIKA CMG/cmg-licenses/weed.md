@@ -1,5 +1,6 @@
 ---
 description: Information about Weed-License
+coverY: 0
 ---
 
 # Weed

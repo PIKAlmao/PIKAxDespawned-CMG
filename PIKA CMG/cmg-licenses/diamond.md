@@ -1,5 +1,6 @@
 ---
 description: Information about Diamond-License
+coverY: 0
 ---
 
 # Diamond

@@ -2,6 +2,7 @@
 description: >-
   Here you can find some of the basics within the server ( i will be adding
   stuff randomly)
+coverY: 0
 ---
 
 # Basics for newbies

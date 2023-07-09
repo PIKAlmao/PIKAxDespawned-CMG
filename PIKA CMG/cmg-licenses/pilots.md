@@ -1,5 +1,6 @@
 ---
 description: information about pilots-license
+coverY: 0
 ---
 
 # Pilots

@@ -1,5 +1,6 @@
 ---
 description: Information about DJ-License
+coverY: 0
 ---
 
 # DJ

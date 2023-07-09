@@ -1,5 +1,6 @@
 ---
 description: Information about Gold-License
+coverY: 0
 ---
 
 # Gold

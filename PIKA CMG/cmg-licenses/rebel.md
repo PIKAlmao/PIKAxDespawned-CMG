@@ -1,5 +1,6 @@
 ---
 description: information about rebel-license
+coverY: 0
 ---
 
 # Rebel

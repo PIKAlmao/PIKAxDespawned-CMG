@@ -1,5 +1,6 @@
 ---
 description: CMG socials
+coverY: 0
 ---
 
 # Welcome to CMG

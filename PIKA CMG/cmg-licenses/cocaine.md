@@ -1,5 +1,6 @@
 ---
 description: Information about Cocaine-License
+coverY: 0
 ---
 
 # Cocaine

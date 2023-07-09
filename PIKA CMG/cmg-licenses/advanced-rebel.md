@@ -1,5 +1,6 @@
 ---
 description: Information about Advanced:Rebel-License
+coverY: 0
 ---
 
 # Advanced Rebel
