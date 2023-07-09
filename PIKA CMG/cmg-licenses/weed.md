@@ -1,7 +1,7 @@
 ---
 description: Information about Weed-License
-cover: ../.gitbook/assets/71RbvdnlA1L._AC_UF894,1000_QL80_.jpg
-coverY: 210
+cover: ../.gitbook/assets/PRI_173180152-e1606151710401.jpg
+coverY: -732
 ---
 
 # Weed
