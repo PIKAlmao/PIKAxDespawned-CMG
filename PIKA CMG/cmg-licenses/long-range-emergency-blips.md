@@ -1,5 +1,6 @@
 ---
 description: Information about LongRangeEmergencyBlips-License
+cover: ../.gitbook/assets/BLIPS.PNG
 coverY: 0
 ---
 
