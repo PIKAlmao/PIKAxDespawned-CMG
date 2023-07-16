@@ -18,3 +18,4 @@
   * [DJ](cmg-licenses/dj.md)
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
 * [Basics for newbies](basics-for-newbies.md)
+* [Known issues - Reasons](known-issues-reasons.md)
