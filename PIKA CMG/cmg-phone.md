@@ -2,7 +2,7 @@
 description: How to use the CMG phone
 ---
 
-# CMG PHONE (updated-2023)
+# 📲 CMG PHONE
 
 ## CMG phone (updated-2023):
 
