@@ -20,6 +20,4 @@ coverY: 0
 &#x20;![:fivem:](https://cdn.discordapp.com/emojis/280211198597660672.webp?size=44\&quality=lossless) - FiveM Server 1 IP - `s1.cmg.city`\
 &#x20;![:angular\_discord:](https://cdn.discordapp.com/emojis/856646359276585001.webp?size=44\&quality=lossless) - `https:/discord.gg/cmg`
 
-<figure><img src="https://discord.com/assets/370f5af37229902609dec50690ec5f99.svg" alt=""><figcaption></figcaption></figure>
-
 ### _<mark style="color:blue;">A Guide to the CMG licenses and some other useful information by PIKA/td5.</mark>_&#x20;

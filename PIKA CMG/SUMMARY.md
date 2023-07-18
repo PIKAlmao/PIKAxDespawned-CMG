@@ -17,7 +17,7 @@
   * [Advanced Rebel](cmg-licenses/advanced-rebel.md)
   * [DJ](cmg-licenses/dj.md)
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
-* [CMG Keybinds](cmg-keybinds/README.md)
+* [⌨ CMG Keybinds](cmg-keybinds/README.md)
   * [General](cmg-keybinds/general.md)
   * [Roleplay](cmg-keybinds/roleplay.md)
   * [Vehicles](cmg-keybinds/vehicles.md)
