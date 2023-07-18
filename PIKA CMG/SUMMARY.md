@@ -24,3 +24,4 @@
   * [CMG](cmg-keybinds/cmg.md)
 * [Basics for newbies](basics-for-newbies.md)
 * [Known issues - Reasons](known-issues-reasons.md)
+* [CMG PHONE (updated) (soon)](cmg-phone-updated-soon.md)
