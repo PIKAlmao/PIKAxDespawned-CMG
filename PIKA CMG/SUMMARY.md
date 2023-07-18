@@ -19,3 +19,8 @@
   * [Long-Range Emergency Blips](cmg-licenses/long-range-emergency-blips.md)
 * [Basics for newbies](basics-for-newbies.md)
 * [Known issues - Reasons](known-issues-reasons.md)
+* [CMG Keybinds](cmg-keybinds/README.md)
+  * [General](cmg-keybinds/general.md)
+  * [Roleplay](cmg-keybinds/roleplay.md)
+  * [Vehicles](cmg-keybinds/vehicles.md)
+  * [CMG](cmg-keybinds/cmg.md)
