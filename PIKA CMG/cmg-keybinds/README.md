@@ -1,5 +1,5 @@
 ---
-description: Useful information about keybinds within CMG
+description: Useful keybinds within CMG
 ---
 
 # CMG Keybinds
