@@ -22,6 +22,6 @@
   * [Roleplay](cmg-keybinds/roleplay.md)
   * [Vehicles](cmg-keybinds/vehicles.md)
   * [CMG](cmg-keybinds/cmg.md)
+* [CMG PHONE (updated-2023)](cmg-phone-updated-2023.md)
 * [Basics for newbies](basics-for-newbies.md)
 * [Known issues - Reasons](known-issues-reasons.md)
-* [CMG PHONE (updated) (soon)](cmg-phone-updated-soon.md)
