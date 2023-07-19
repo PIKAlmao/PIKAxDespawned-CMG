@@ -31,3 +31,6 @@ If the server is appearing offline whilst it's not meant to (only times the serv
 
 <mark style="color:blue;">**Unable to connect to the server ?**</mark>:\
 A couple of causes of this could result in fivem being down (happens frequently) which you can check the status of fivem via this link <mark style="color:blue;">**https://status.cfx.re/**</mark>:. Or the actual CMG server is down having maintenence, they're fixing something important, or the dedicated machine is having issues which you can check via this link. <mark style="color:blue;">**"https://status.cmgstudios.net/"**</mark>:
+
+<mark style="color:blue;">**Stuck beneath the map ?**</mark>:\
+If you're stuck under the map, try the following commands which should work and teleport you above the map. <mark style="color:blue;">**/unstuck**</mark>: / <mark style="color:blue;">**/reset**</mark>: , if neither work do <mark style="color:blue;">**/calladmin**</mark>: and wait for them to take your ticket.
