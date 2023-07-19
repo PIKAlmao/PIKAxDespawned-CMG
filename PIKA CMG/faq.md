@@ -1,11 +1,11 @@
 ---
 description: >-
-  Here you can find some of the basics within the server ( i will be adding
-  stuff randomly)
+  Looking for something in particular ? Use the search bar in the top right of
+  your screen on the gitbook.
 coverY: 0
 ---
 
-# Basics for newbies
+# 🗒 FAQ
 
 <mark style="color:blue;">**AA**</mark>:
 
