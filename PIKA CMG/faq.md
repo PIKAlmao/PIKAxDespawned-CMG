@@ -7,7 +7,14 @@ coverY: 0
 
 # 🗒 FAQ
 
-<mark style="color:blue;">**AA**</mark>:\
+#### <mark style="color:blue;">Where can i report someone ?</mark> <mark style="color:blue;">:</mark>&#x20;
+
+You can either report a player by doing /calladmin ingame, or via the cmg forums [`https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/`](https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/)\
+\
+<mark style="color:blue;">**Where can i appeal my ban ? :**</mark> \
+You can appeal your ban via the forums \
+[`https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/`](https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/)\
+\ <mark style="color:blue;">**AA**</mark>:\
 \-Be clocked on (City Hall)\
 \-Go claim your two FREE aa vehicles from simeons\
 \-You can buy repair kits from the AA compound near mission row\
@@ -17,7 +24,6 @@ coverY: 0
 \-AA Recently has just been added a automatic paycheck system thanks to @Tom!
 
 <mark style="color:blue;">**Dirty cash**</mark>:\
-\
 You can buy a burner phone at any store ingame for 500k , and then it'll be in your inventory which you can see via pressing <mark style="color:blue;">**L**</mark>. Which then you can press on the phone and then press "use" it'll set a waypoint where you need to meet the cleaner. The time it takes to clean the money depends on the amount of money you want to clean. you can store the burner phone in a car or house whilst it's not being used and you can and will lose the burner phone on death if you do have it in your player inventory.
 
 <mark style="color:blue;">**Car garage menu not popping up**</mark>:\
@@ -34,3 +40,21 @@ A couple of causes of this could result in fivem being down (happens frequently)
 
 <mark style="color:blue;">**Stuck beneath the map ?**</mark>:\
 If you're stuck under the map, try the following commands which should work and teleport you above the map. <mark style="color:blue;">**/unstuck**</mark>: / <mark style="color:blue;">**/reset**</mark>: , if neither work do <mark style="color:blue;">**/calladmin**</mark>: and wait for them to take your ticket.
+
+<mark style="color:blue;">**How do i open my inventory?**</mark>:\
+If you press <mark style="color:blue;">**L**</mark>: on your keyboard it will open up a ui which will display anything on you characters person.
+
+<mark style="color:blue;">**I have a gun but i don't see it in my players inventory**</mark>:\
+If you do <mark style="color:blue;">**/storeallweapons**</mark>: your weapon/s will appear in your characters inventory, you can also do <mark style="color:blue;">**/storecurrentweapon**</mark>: which stores any weapon you have equipped in your players hands.
+
+<mark style="color:blue;">**How do i get my id ?**</mark>:\
+If you do <mark style="color:blue;">**/getmyid**</mark>: ingame this will display your permanent id in the top left of your chat.
+
+<mark style="color:blue;">**What is boot wipe ?**</mark>:\
+Boot wipes happen to help keep the economy some what stable and to prevent people from gathering an arsenal turning the city into a warzone. \
+\
+What does this boot wipe include ? \
+\-All weapons equipped \
+\-All items in your house storage \
+\-All items in your vehicle boots \
+\-All items in your characters inventory (L)

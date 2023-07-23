@@ -22,6 +22,7 @@
   * [Roleplay](cmg-keybinds/roleplay.md)
   * [Vehicles](cmg-keybinds/vehicles.md)
   * [CMG](cmg-keybinds/cmg.md)
-* [📲 CMG PHONE](cmg-phone.md)
+* [📲 CMG Phone](cmg-phone.md)
+* [🔨 CMG Rules](cmg-rules.md)
 * [🗒 FAQ](faq.md)
 * [Known issues - Reasons](known-issues-reasons.md)

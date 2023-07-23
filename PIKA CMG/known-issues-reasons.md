@@ -1,5 +1,6 @@
 ---
 description: Issues within the server and their reasons
+coverY: 0
 ---
 
 # Known issues - Reasons
