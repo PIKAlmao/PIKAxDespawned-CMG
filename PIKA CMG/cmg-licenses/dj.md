@@ -13,3 +13,9 @@ With the dj license you can play songs with youtube links by doing /djmenu ingam
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image 1</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image 2.png" alt=""><figcaption><p>Image 2</p></figcaption></figure>
+
+
+
+### <mark style="color:blue;">Subwoofers:</mark>
+
+If you own the "dj-license" you're able to go into any ls customs around the map and purchase the "subwoofers" that allow you to play music from your car.
