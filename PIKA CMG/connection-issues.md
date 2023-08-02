@@ -1,5 +1,5 @@
 ---
-description: Connection issues with resolutions. Credit to Bean (updated by myself)
+description: 'Connection issues with resolutions. Author: Bean (updated / edited by myself)'
 ---
 
 # 🔧 Connection issues
