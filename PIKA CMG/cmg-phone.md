@@ -1,8 +1,8 @@
 ---
-description: How to use the CMG phone
+description: 'How to use the CMG phone. Author: Bean (updated / edited by myself)'
 ---
 
-# 📲 CMG PHONE
+# 📲 CMG Phone
 
 ## CMG phone (updated-2023):
 
