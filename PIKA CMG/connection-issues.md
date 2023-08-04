@@ -24,19 +24,19 @@ This commonly happens if you have been timed out from the server due to your cur
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+### "Invalid FiveM client version in ticket request. Please restart FiveM"
+
+There is a very simple fix to this issue, and you can do this by opening the **settings** in the FiveM home page and then going to **Game** and then change your "update channel"
+
+<figure><img src=".gitbook/assets/connect 222222.png" alt=""><figcaption><p>The issue</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Client tttt.png" alt=""><figcaption><p>The fix</p></figcaption></figure>
+
 ### "Steam account not found"&#x20;
 
 The reason this message appears when you try to join the server is because your steam account is an identifier for the server (to detect ban evaders / cheaters etc...), to fix this issue, you must close fivem fully, then go and open your steam fully (you must have an account), then you can launch fivem again whilst still having steam fully open and you'll be able to join the server perfectly fine. (It does not matter which launcher you have gta purchased on whether it's epic games, steam or the rockstar launcher, you just have to follow the steps above).
 
 <figure><img src=".gitbook/assets/image420000.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-Press **F8** on your keyboard to open the Console and then type **Connect s1.cmg.city**
-{% endhint %}
-
-## Client-sided Issues
-
-These are issues that are with your host machine that prevent you from joining the server and their resolutions.
 
 ### "Invalid modified game files (x64f.rpf)"
 
@@ -47,6 +47,10 @@ This server does not allow the use of modified game files like fps booster packs
 This is a common error where either your FiveM cache is full and it is causing assets fail to download which prevent you from connecting or where you have no or little free memory left on the drive you have FiveM installed on.
 
 <figure><img src=".gitbook/assets/useful 1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Press **F8** on your keyboard to open the Console and then type **Connect s1.cmg.city**
+{% endhint %}
 
 {% hint style="success" %}
 To solve this you can clear your Cache by following the steps below \
