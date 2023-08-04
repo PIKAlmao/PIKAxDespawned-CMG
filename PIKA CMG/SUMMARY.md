@@ -26,4 +26,3 @@
 * [🔨 CMG Rules](cmg-rules.md)
 * [🗒 FAQ](faq.md)
 * [🔧 Connection issues](connection-issues.md)
-* [Known issues - Reasons](known-issues-reasons.md)

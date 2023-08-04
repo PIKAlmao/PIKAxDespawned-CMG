@@ -7,21 +7,7 @@ coverY: 0
 
 # 🗒 FAQ
 
-#### <mark style="color:blue;">Where can i report someone ?</mark> <mark style="color:blue;">:</mark>&#x20;
-
-You can either report a player by doing /calladmin ingame, or via the cmg forums [`https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/`](https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/)\
-\
-<mark style="color:blue;">**Where can i appeal my ban ? :**</mark> \
-You can appeal your ban via the forums \
-[`https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/`](https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/)\
-\ <mark style="color:blue;">**AA**</mark>:\
-\-Be clocked on (City Hall)\
-\-Go claim your two FREE aa vehicles from simeons\
-\-You can buy repair kits from the AA compound near mission row\
-\-You can take calls via \` or the phone whichever shows the calls now\
-\-To tow a vehicle you need to press E on your AA truck then go over the to be towed vehicle then press E on it then it should appear on your Flat-bed or on your Hook\
-\-To repair a vehicle you can claim "repair kits" from the AA compound, then they'll be in your inventory which you can see via pressing L and then if you go over to a broken car you can press E on it then select "repair vehicle" on the radial menu.\
-\-AA Recently has just been added a automatic paycheck system thanks to @Tom!
+#### <mark style="color:blue;">Where can i report someone ?</mark> <mark style="color:blue;">:</mark>                                                                                                                                 You can either report a player by doing /calladmin ingame, or via the cmg forums [`https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/`](https://cmgstudios.net/forums/index.php?/forum/12-report-a-player/)  <mark style="color:blue;">**Where can i appeal my ban ? :**</mark> You can appeal your ban via the forums [`https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/`](https://cmgstudios.net/forums/index.php?/forum/10-unban-appeal/)  <mark style="color:blue;">**AA**</mark>: -Be clocked on (City Hall) -Go claim your two FREE aa vehicles from simeons -You can buy repair kits from the AA compound near mission row -You can take calls via \` or the phone whichever shows the calls now -To tow a vehicle you need to press E on your AA truck then go over the to be towed vehicle then press E on it then it should appear on your Flat-bed or on your Hook -To repair a vehicle you can claim "repair kits" from the AA compound, then they'll be in your inventory which you can see via pressing L and then if you go over to a broken car you can press E on it then select "repair vehicle" on the radial menu. -AA Recently has just been added a automatic paycheck system thanks to @Tom!
 
 <mark style="color:blue;">**Dirty cash**</mark>:\
 You can buy a burner phone at any store ingame for 500k , and then it'll be in your inventory which you can see via pressing <mark style="color:blue;">**L**</mark>. Which then you can press on the phone and then press "use" it'll set a waypoint where you need to meet the cleaner. The time it takes to clean the money depends on the amount of money you want to clean. you can store the burner phone in a car or house whilst it's not being used and you can and will lose the burner phone on death if you do have it in your player inventory.
@@ -74,3 +60,11 @@ What does this boot wipe include ? \
 \-All items in your house storage \
 \-All items in your vehicle boots \
 \-All items in your characters inventory (L)
+
+
+
+#### <mark style="color:blue;">How do i claim my twitterreward ?</mark>:&#x20;
+
+The link twitter system isn't really working due to how limited the api system is, it only allows a certain amount of uses per day which is 20 or something from what i've heard, so they usually get used instantly, might be worth having a try right after midnight or after the daily 10am restart, i'm not 100% sure on when the api gets refreshed.\
+[https://discord.com/channels/458382797103693867/458757577577070602/1136765034001862757](https://discord.com/channels/458382797103693867/458757577577070602/1136765034001862757)\
+[https://github.com/CMGStudios/issue-tracker/issues/720#issuecomment-1637019748](https://github.com/CMGStudios/issue-tracker/issues/720#issuecomment-1637019748)
