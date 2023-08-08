@@ -1,7 +1,21 @@
 ---
 description: Information about Cocaine-License
-cover: ../.gitbook/assets/cocaine-addiction-powder.png
-coverY: -272.314629258517
+cover: ../.gitbook/assets/Cocaine.png
+coverY: 56.15257469802924
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Cocaine

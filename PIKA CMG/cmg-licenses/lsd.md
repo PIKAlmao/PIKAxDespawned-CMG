@@ -1,7 +1,21 @@
 ---
 description: Information about LSD-License
-cover: ../.gitbook/assets/1624027774644-product.webp
-coverY: -102.88577154308618
+cover: ../.gitbook/assets/LSD.png
+coverY: 63.51684678957406
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # LSD

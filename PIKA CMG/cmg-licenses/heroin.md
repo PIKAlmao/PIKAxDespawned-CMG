@@ -1,7 +1,21 @@
 ---
 description: Information about Heroin-License
-cover: ../.gitbook/assets/Heroin-addiction4-e1635171384758.jpg
-coverY: -80
+cover: ../.gitbook/assets/Heroin.png
+coverY: 57.07310870947234
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Heroin

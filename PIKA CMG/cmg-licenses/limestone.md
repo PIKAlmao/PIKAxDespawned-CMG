@@ -1,7 +1,21 @@
 ---
 description: Information about Limestone-License
-cover: ../.gitbook/assets/White Limestone 14mm - Dry Swatch.jpg
-coverY: 0
+cover: ../.gitbook/assets/Limestone.png
+coverY: 55.78130959949142
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Limestone

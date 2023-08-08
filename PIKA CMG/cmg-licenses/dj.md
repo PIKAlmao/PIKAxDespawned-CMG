@@ -1,7 +1,21 @@
 ---
 description: Information about DJ-License
-cover: ../.gitbook/assets/Desktop_Screenshot_2022.06.26_-_00.53.33.98.png
-coverY: 0
+cover: ../.gitbook/assets/DJ.png
+coverY: 60.75524475524475
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # DJ

@@ -1,7 +1,21 @@
 ---
 description: Information about Meth-License
-cover: ../.gitbook/assets/E57NFCU2IZBNTLTRG4F274NCIQ.jpg
-coverY: -18
+cover: ../.gitbook/assets/Meth.png
+coverY: 56.15257469802924
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Meth
