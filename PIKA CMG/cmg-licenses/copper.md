@@ -1,6 +1,6 @@
 ---
 description: Information about Copper-License
-cover: ../.gitbook/assets/Copper.png
+cover: ../.gitbook/assets/Copper (1).png
 coverY: 38.6624284806103
 layout:
   cover:
