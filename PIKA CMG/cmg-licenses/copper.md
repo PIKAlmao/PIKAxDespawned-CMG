@@ -1,7 +1,21 @@
 ---
 description: Information about Copper-License
-cover: ../.gitbook/assets/copper (1).jpg
-coverY: -259
+cover: ../.gitbook/assets/Copper.png
+coverY: 38.6624284806103
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Copper
