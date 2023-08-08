@@ -1,11 +1,11 @@
 ---
 description: Information about Weed-License
 cover: ../.gitbook/assets/Copper (1).png
-coverY: 72
+coverY: 37.94024157660521
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
