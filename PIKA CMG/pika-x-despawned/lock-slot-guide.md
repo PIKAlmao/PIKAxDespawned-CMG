@@ -1,5 +1,5 @@
 ---
-description: How to use a Lockslot made by PIKA & Despawned
+description: How to use a Lock-Slot made by PIKA & Despawned
 ---
 
 # Lock-Slot Guide
