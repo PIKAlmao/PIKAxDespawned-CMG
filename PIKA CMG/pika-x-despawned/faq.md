@@ -29,28 +29,28 @@ If you're stuck under the map, try the following commands which should work and 
 
 <div>
 
-<figure><img src=".gitbook/assets/reset command.png" alt=""><figcaption><p>/reset command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/reset command.png" alt=""><figcaption><p>/reset command</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/unstuck command.png" alt=""><figcaption><p>/unstuck command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/unstuck command.png" alt=""><figcaption><p>/unstuck command</p></figcaption></figure>
 
 </div>
 
 <mark style="color:blue;">**How do i open my inventory?**</mark>:\
 If you press <mark style="color:blue;">**L**</mark>: on your keyboard it will open up a ui which will display anything on you characters person.
 
-<figure><img src=".gitbook/assets/inventory.png" alt=""><figcaption><p>Player inventory by pressing L</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/inventory.png" alt=""><figcaption><p>Player inventory by pressing L</p></figcaption></figure>
 
 <mark style="color:blue;">**I have a gun but i don't see it in my players inventory**</mark>:\
 If you do <mark style="color:blue;">**/storeallweapons**</mark>: your weapon/s will appear in your characters inventory, you can also do <mark style="color:blue;">**/storecurrentweapon**</mark>: which stores any weapon you have equipped in your players hands.
 
-<figure><img src=".gitbook/assets/STOREALLWEAPONS.png" alt=""><figcaption><p>/Storeallweapons command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/STOREALLWEAPONS.png" alt=""><figcaption><p>/Storeallweapons command</p></figcaption></figure>
 
 <mark style="color:blue;">**How do i get my id ?**</mark>:\
 If you do <mark style="color:blue;">**/getmyid**</mark>: ingame this will display your permanent id in a blue text box or in the top left in chat.
 
-<figure><img src=".gitbook/assets/ID.png" alt=""><figcaption><p>Permanent ID</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ID.png" alt=""><figcaption><p>Permanent ID</p></figcaption></figure>
 
 <mark style="color:blue;">**What is boot wipe ?**</mark>:\
 Boot wipes happen to help keep the economy some what stable and to prevent people from gathering an arsenal turning the city into a warzone. \

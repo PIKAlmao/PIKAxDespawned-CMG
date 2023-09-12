@@ -1,6 +1,6 @@
 ---
 description: Information about Advanced:Rebel-License
-cover: ../.gitbook/assets/ttttttttttttttttttttttttttttttttttt4444444.png
+cover: ../../.gitbook/assets/ttttttttttttttttttttttttttttttttttt4444444.png
 coverY: 64
 ---
 

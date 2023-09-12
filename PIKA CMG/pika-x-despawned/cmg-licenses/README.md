@@ -1,6 +1,6 @@
 ---
 description: License information
-cover: .gitbook/assets/useas.png.753a204f69a31cb63740eed5d5c9cf3d.png
+cover: ../../.gitbook/assets/useas.png.753a204f69a31cb63740eed5d5c9cf3d.png
 coverY: 0
 ---
 
@@ -14,14 +14,14 @@ coverY: 0
 
 > Please bare in mind with illegal licenses and selling that the sell points have turfs that players can capture and change the commission on, so the money you receive from selling can vary a few thousand.
 
-<figure><img src=".gitbook/assets/License shop.png" alt=""><figcaption><p>City hall / license shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/License shop.png" alt=""><figcaption><p>City hall / license shop</p></figcaption></figure>
 
 <div>
 
-<figure><img src=".gitbook/assets/City hall v2.png" alt=""><figcaption><p>City hall area</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/City hall v2.png" alt=""><figcaption><p>City hall area</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/City hall v3.png" alt=""><figcaption><p>License shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/City hall v3.png" alt=""><figcaption><p>License shop</p></figcaption></figure>
 
 </div>
