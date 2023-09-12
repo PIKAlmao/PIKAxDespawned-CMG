@@ -28,3 +28,4 @@
     * [Long-Range Emergency Blips](pika-x-despawned/cmg-licenses/long-range-emergency-blips.md)
   * [🗒 FAQ](pika-x-despawned/faq.md)
   * [🔧 Connection issues](pika-x-despawned/connection-issues.md)
+  * [Phone Guide](pika-x-despawned/phone-guide.md)
