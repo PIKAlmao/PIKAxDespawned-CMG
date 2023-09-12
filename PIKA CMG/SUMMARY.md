@@ -26,4 +26,5 @@
 * [🔨 CMG Rules](cmg-rules.md)
 * [🗒 FAQ](faq.md)
 * [🔧 Connection issues](connection-issues.md)
-* [Despawned.](despawned..md)
+* [Despawned.](despawned./README.md)
+  * [Lock-Slot Guide](despawned./lock-slot-guide.md)
