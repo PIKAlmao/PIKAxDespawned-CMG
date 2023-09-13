@@ -10,15 +10,15 @@ description: >-
 
 The phone on CMG is something everyone automatically has by default, which is a permanent, non-physical item that other players cannot steal.
 
-#### The key bind to open the phone is \[**K**].
+#### The default key bind to open the phone is \[**K**].
 
 <div>
 
-<img src="broken-reference" alt="">
+<figure><img src="../.gitbook/assets/Phone 1 (3).png" alt="" width="369"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 2 (1).png" alt="" width="345"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,17 +26,17 @@ The phone on CMG is something everyone automatically has by default, which is a 
 
 ## How to send money:
 
-### The monzo app:
+**The monzo app:**
 
-The app is installed by default, enter the players **permid** and followed by the amount then select transfer you can view your transaction history in the "**Wallet**" app.
+The app is installed by default, enter the players **permid** (you can find your id by doing **/getmyid** in-game) and followed by the amount then select transfer you can view your transaction history in the "**Wallet**" app.
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 3 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,17 +44,17 @@ The app is installed by default, enter the players **permid** and followed by th
 
 ## How to add contacts:
 
-<img src="broken-reference" alt="" data-size="line"> **> Contacts > My Card > Share Contact**
+&#x20;**📲** **> Contacts > My Card > Share Contact**
 
 You can then airdrop your number to any nearby player.
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 5.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 6 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,118 +62,148 @@ You can then airdrop your number to any nearby player.
 
 ## Installing Apps:
 
+**The AppStore app:**
+
 Once you've opened the phone, there are multiple applications that you can use and download from the app store, just like on a normal iPhone in real life. Shown in the images below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2Fl3dP4ZUN10PKNlFRurQR%2Fapp%20store%201.png?alt=media&#x26;token=0e224117-f041-40f5-8de6-bd7341fc26bd" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 7 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FxrUpLNlfoOTgeGC5vWWH%2FApp%20store%202.png?alt=media&#x26;token=ed43cb5f-89a6-4217-82ee-9cb5a8efd7b7" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 8 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### Notes:
+## Notes:
+
+**The Notes app:**
 
 Notes This is used to make any notes that you might want to make on your phone. Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2Fxm8ppYMP8pBmczaYiTIe%2Fnotes.png?alt=media&#x26;token=96d13039-c6e6-4182-ac33-8b8ee25ec2ca" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 9.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FeBo31Ziy9Rtw1TD3rsdH%2Fnotes%202.png?alt=media&#x26;token=aa87f507-fdf1-4a0c-818e-0c655204ccac" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### Settings:
+## Settings:
+
+**The Settings app:**
 
 The settings are used to change different settings on your phone such as wallpapers, ringtones, do not disturb etc. Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FEV2a7Kz7vIxBWUPJFPG2%2FSettings.png?alt=media&#x26;token=d7c4c60c-8fb7-456c-927c-fe5ded62f9af" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 11.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FlDEqC9wjp3usxA02jxmD%2FSettings%202.png?alt=media&#x26;token=804a002d-bfbe-4124-b4f5-61eaa6e32e15" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 12.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### Valet:
+## Valet:
 
-The valet is a perk that you gain if you have CMG PLATINUM, which you can purchase off other players ingame or off the store. Shown in the image below.
+**The Valet app:**
+
+The valet is a perk that you gain by being a subscriber of [CMG PLATINUM](https://store.cmgstudios.net/category/subscriptions), which you can purchase off other players ingame or off the [store](https://store.cmgstudios.net/category/subscriptions). Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FxmnNWPYAgIJDQ99HzhjH%2Fvalet.png?alt=media&#x26;token=ad3bf2b3-498d-4bc3-88bd-af77fe202863" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 13.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FihjXgJyi3fTe8PElAXdk%2FValet%202.png?alt=media&#x26;token=cc622e76-8185-4a1d-8918-755b58fbb953" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 14.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### Twitter:
+## **Birdy (Twitter)**:
 
-With the twitter app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
+**The Birdy (Twitter) app:**
+
+With the Birdy (twitter) app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FEUmj7ZZx8cvE0j6x3gtR%2Ftwitter.png?alt=media&#x26;token=c3a659c5-2b71-4c24-97c8-d11c2125b2f7" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 15.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FFRnnKqulyaoXNveqFlEh%2Ftwitter%202.png?alt=media&#x26;token=f1fefa73-254b-4727-9824-862a32dca759" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 16.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### Instagram:
+## InstaPic (instagram):
 
-With the instagram app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
+**The** **InstaPic (instagram) app:**
+
+With the InstaPic (instagram) app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FGvYKohcb2eaAHIwfhBhO%2Finstgram.png?alt=media&#x26;token=d1ac4a33-e475-4471-88ec-56f2246295fe" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 17.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FgbWj7pua7rNAWMd4Sw0R%2Finstagram%202.png?alt=media&#x26;token=fa7bbc2a-2801-4c0b-b350-8d2e9bc31869" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 18.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-### TikTok:
+## Trendy (TikTok):
 
-With the tiktok app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
+**The** **Trendy (TikTok) app:**
+
+With the Trendy (TikTok) app this is used to make posts images and text that can bee seen by other players. Shown in the image below.
 
 <div>
 
-<img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FQdnSBPUzkI9fkd6tsKvM%2Ftiktok.png?alt=media&#x26;token=c96f9d7d-6b22-4c98-b80b-cd516105d495" alt="" width="100%">
+<figure><img src="../.gitbook/assets/Phone 19.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://1078402678-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2FeX6qwsOn7lfHPtObwYYO%2Ftiktok%202.png?alt=media&#x26;token=bca22cc5-2a31-4a6f-bcb7-ac27c2ab8095" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Phone 20.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ***
+
+## Taking a picture:
 
 Once you have the camera app open it'll show a pop up on the top left hand side of your screen which tells you how to use the camera. Shown in the image below.
 
-![](https://1078402678-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRmuNAypz4CxVZ8XWExtW%2Fuploads%2F3aApdl9eCQdh181GJUC5%2FPhone%206.png?alt=media\&token=9961d077-b654-4759-9cd7-69cabf94d5a2)
+<figure><img src="../.gitbook/assets/Phone 23.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Finding my pictures:
 
 Once you've taken a picture it'll appear in your photo album which you would be able to find / see just like a normal iphone in real life which you can post on instagram/twitter/tiktok etc... Shown in the image below.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Phone 21.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Phone 22.png" alt=""><figcaption></figcaption></figure>
+
+</div>
