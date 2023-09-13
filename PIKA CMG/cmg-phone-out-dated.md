@@ -2,7 +2,7 @@
 description: 'How to use the CMG phone. Author: Bean (updated / edited by myself)'
 ---
 
-# 📲 CMG Phone
+# 📲 CMG Phone (out-dated)
 
 ## CMG phone (updated-2023):
 
@@ -10,11 +10,11 @@ The phone on cmg everyone automatically has by default, which is a permanent non
 
 <div>
 
-<figure><img src="../.gitbook/assets/Phone 1 (1).png" alt=""><figcaption><p>Phone opened by pressing K</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Phone 1 (1).png" alt=""><figcaption><p>Phone opened by pressing K</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/phone bg 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/phone bg 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,11 +22,11 @@ Once you've opened the <mark style="color:blue;">phone</mark>, there's multiple 
 
 <div>
 
-<figure><img src="../.gitbook/assets/app store 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/app store 1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/App store 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/App store 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,17 +36,17 @@ You can use the <mark style="color:blue;">camera</mark> to take pictures around 
 
 With <mark style="color:blue;">messages</mark> you can obviously message people and send images, you can also send money via messages. Shown in the image below
 
-<figure><img src="../.gitbook/assets/Phone 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Phone 7.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">Notes</mark> This is used to make any notes that you might want to make on your phone. Shown in the image below.
 
 <div>
 
-<figure><img src="../.gitbook/assets/notes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/notes.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/notes 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/notes 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,11 +54,11 @@ The <mark style="color:blue;">settings</mark> are used to change different setti
 
 <div>
 
-<figure><img src="../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Settings 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Settings 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,11 +66,11 @@ The <mark style="color:blue;">valet</mark> is a perk that you gain if you have C
 
 <div>
 
-<figure><img src="../.gitbook/assets/valet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/valet.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Valet 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Valet 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,11 +78,11 @@ With the <mark style="color:blue;">twitter</mark> app this is used to make posts
 
 <div>
 
-<figure><img src="../.gitbook/assets/twitter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/twitter.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/twitter 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/twitter 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -90,11 +90,11 @@ With the <mark style="color:blue;">instagram</mark> app this is used to make pos
 
 <div>
 
-<figure><img src="../.gitbook/assets/instgram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/instgram.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/instagram 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/instagram 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -103,11 +103,11 @@ Shown in the image below.
 
 <div>
 
-<figure><img src="../.gitbook/assets/tiktok.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/tiktok.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/tiktok 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/tiktok 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -117,11 +117,11 @@ After you have their phone number and name, you can go to your phone contacts ap
 
 <div>
 
-<figure><img src="../.gitbook/assets/phone 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/phone 5.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/contact 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/contact 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -131,15 +131,15 @@ Once you have the person added as a contact, you can then send them money via me
 
 <div>
 
-<figure><img src="../.gitbook/assets/Phone 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Phone 8.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/wallet 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/wallet 1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/wallet 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/wallet 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -147,16 +147,16 @@ Once you have the person added as a contact, you can then send them money via me
 
 Once you have the camera app open it'll show a pop up on the top left hand side of your screen which tells you how to use the camera. Shown in the image below.
 
-<figure><img src="../.gitbook/assets/Phone 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Phone 6.png" alt=""><figcaption></figcaption></figure>
 
 Once you've taken a picture it'll appear in your photo album which you would be able to find / see just like a normal iphone in real life which you can post on instagram/twitter/tiktok etc... Shown in the image below.&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Photo album.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Photo album.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/photo album 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo album 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
