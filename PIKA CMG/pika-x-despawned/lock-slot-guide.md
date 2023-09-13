@@ -10,6 +10,8 @@ description: How to use a Lock-Slot made by PIKA & Despawned
 You can purchase a lock-slot off the [store](https://store.cmgstudios.net/category/custom-imports) , or by purchasing the [baller rank](https://store.cmgstudios.net/category/ranks), you can also purchase them off another player in-game.
 {% endhint %}
 
+***
+
 ### General information:
 
 {% hint style="danger" %}
@@ -20,13 +22,17 @@ Please check the [#announcements](https://discord.gg/VxyG555ncn) on the discord 
 **Store price: **<mark style="color:blue;">**£200**</mark>                                        **In-game Price**: <mark style="color:blue;">**£90,000,000**</mark> to <mark style="color:blue;">**£110,000,000**</mark>
 {% endhint %}
 
-> **Please bare in mind that in-game prices of lock-slots will fluctuate, depending on whether there's a sale on the** [**store**](https://store.cmgstudios.net/) **or if there's just high / low demand. Lock slots usually go for between  **<mark style="color:blue;">**£90,000,000 to**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;">**£110,000,000**</mark>** these are not set prices by the server staff / founders and are community member based prices so you can sell / buy them for anywhere within that price range typically.**
+> **Please bare in mind that in-game prices of lock-slots will fluctuate, depending on whether there's a sale on the** [**store**](https://store.cmgstudios.net/) **or if there's just high / low demand. Lock slots usually go for between  **<mark style="color:blue;">**£90,000,000 to £110,000,000**</mark>** these are not set prices by the server staff / founders and are community member based prices so you can sell / buy them for anywhere within that price range typically.**
+
+***
 
 ### Where can i find my lock-slot once i've obtained one?
 
 > **If you do** [**/store**](https://store.cmgstudios.net/) **in-game, you'll have a menu pop up like the following below that will show your store inventory and any store items you've purchased.**
 
 <figure><img src="../.gitbook/assets/Store inventory1.png" alt="" width="536"><figcaption><p>Store inventory example</p></figcaption></figure>
+
+***
 
 ### How do i use my lock-slot ?
 
@@ -35,6 +41,8 @@ Please check the [#announcements](https://discord.gg/VxyG555ncn) on the discord 
 > **You can find your lock-slot code by doing /store, go over to your "Lock Slot" and press enter and it'll show a new pop up like the following below, which will show your lock-slot code.**
 
 <figure><img src="../.gitbook/assets/Store inventory2.png" alt="" width="537"><figcaption><p>Lock slot code example</p></figcaption></figure>
+
+***
 
 ### What to do once your vehicle has been approved by donation support:
 
