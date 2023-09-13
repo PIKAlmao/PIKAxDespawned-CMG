@@ -1,3 +1,7 @@
+---
+description: How to use a Custom gun whitelist made by PIKA & Despawned
+---
+
 # Custom-Gun whitelist Guide
 
 **🔫 Custom gun whitelist guide**
