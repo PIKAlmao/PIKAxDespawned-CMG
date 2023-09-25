@@ -2,7 +2,7 @@
 description: How to use a Custom gun whitelist made by PIKA & Despawned
 ---
 
-# Custom-Gun whitelist Guide
+# Custom Gun Whitelist Guide
 
 **🔫 Custom gun whitelist guide**
 
@@ -12,6 +12,10 @@ description: How to use a Custom gun whitelist made by PIKA & Despawned
 You can purchase a Custom gun whitelist off the [store ](https://store.cmgstudios.net/category/custom-whitelists), or by purchasing them off another player in-game.\
 \
 Purchasing a custom gun whitelist slot allows you to gain access to someone else's custom weapon without paying full price! However the original owner must give you access to purchase this by giving you an access code.
+{% endhint %}
+
+{% hint style="warning" %}
+
 {% endhint %}
 
 ***
@@ -30,7 +34,7 @@ Purchasing a custom gun whitelist slot allows you to gain access to someone else
 
  
 
-<figure><img src="../.gitbook/assets/creating an access code 3.png" alt=""><figcaption><p>Access cide generated <strong>(ref3)</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/creating an access code 3.png" alt=""><figcaption><p>Access code generated <strong>(ref3)</strong></p></figcaption></figure>
 
 </div>
 
@@ -38,9 +42,11 @@ Purchasing a custom gun whitelist slot allows you to gain access to someone else
 
 ***
 
-***
-
 ## Claiming a custom gun whitelist:
+
+{% hint style="danger" %}
+You will need a weapon access code to redeem your custom gun whitelist. You can purchase an access code off another player in game or in the [#auction-room](https://discord.com/channels/458382797103693867/567675645488791552) channel on the discord. Please make sure you purchase the suitable access code for the custom gun whitelist slot you have purchased as there's nothing we can do to help you with this issue. Ie, (black ice mp5 = smg whitelist) - (M13 Assault rifle = Rifle whitelist)
+{% endhint %}
 
 > Once you've purchased the suitable custom gun whitelist for the access code you've recently purchased, you can find it on your /store menu ingame. Once you do /store find your weapon whitelist and press enter, this will bring you to a pop up where you can redeem the item, sell the item and copy the code.
 
