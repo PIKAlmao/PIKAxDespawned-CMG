@@ -8,14 +8,14 @@ description: How to use a Custom gun whitelist made by PIKA & Despawned
 
 ## General information:
 
+{% hint style="warning" %}
+You can't currently import (bring in) custom weapons.
+{% endhint %}
+
 {% hint style="info" %}
 You can purchase a Custom gun whitelist off the [store ](https://store.cmgstudios.net/category/custom-whitelists), or by purchasing them off another player in-game.\
 \
 Purchasing a custom gun whitelist slot allows you to gain access to someone else's custom weapon without paying full price! However the original owner must give you access to purchase this by giving you an access code.
-{% endhint %}
-
-{% hint style="warning" %}
-
 {% endhint %}
 
 ***
