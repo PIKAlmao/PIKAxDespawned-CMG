@@ -30,3 +30,4 @@
   * [🗒 FAQ](pika-x-despawned/faq.md)
   * [🔧 Connection issues](pika-x-despawned/connection-issues.md)
   * [Custom Gun Whitelist Guide](pika-x-despawned/custom-gun-whitelist-guide.md)
+* [Baller ID Swap Guide](baller-id-swap-guide.md)
