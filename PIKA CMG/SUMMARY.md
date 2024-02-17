@@ -11,6 +11,7 @@
 * [PIKA x DESPAWNED](pika-x-despawned/README.md)
   * [Baller ID Swap Guide](pika-x-despawned/baller-id-swap-guide.md)
   * [Lockslot Guide](pika-x-despawned/lock-slot-guide.md)
+  * [🧑🌾 Farmer](pika-x-despawned/farmer.md)
   * [Phone Guide](pika-x-despawned/phone-guide.md)
   * [💊 CMG Licenses](pika-x-despawned/cmg-licenses/README.md)
     * [Copper](pika-x-despawned/cmg-licenses/copper.md)
@@ -31,4 +32,3 @@
   * [🗒 FAQ](pika-x-despawned/faq.md)
   * [🔧 Connection issues](pika-x-despawned/connection-issues.md)
   * [Custom Gun Whitelist Guide](pika-x-despawned/custom-gun-whitelist-guide.md)
-* [🧑🌾 Farmer](farmer.md)
