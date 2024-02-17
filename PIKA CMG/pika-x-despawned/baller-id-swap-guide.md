@@ -20,11 +20,11 @@ To obtain an ID Swap token this would require purchasing the ["Baller Rank" ](ht
 
 <div>
 
-<figure><img src=".gitbook/assets/Baller ID token image.png" alt="" width="273"><figcaption><p> image ref1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Baller ID token image.png" alt="" width="273"><figcaption><p> image ref1</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Baller ID list image.png" alt="" width="209"><figcaption><p>image ref2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Baller ID list image.png" alt="" width="209"><figcaption><p>image ref2</p></figcaption></figure>
 
 </div>
 
@@ -32,7 +32,7 @@ To obtain an ID Swap token this would require purchasing the ["Baller Rank" ](ht
 
 > Once you have confirmed your Baller ID swap, it will now begin the account migration process  which will transfer all of the data from your current id over to your new one, this will kick you from the server almost instantaneously and can take a few minutes to process before allowing you to join the server again.&#x20;
 
-<figure><img src=".gitbook/assets/Baller ID image.png" alt=""><figcaption><p>Account migration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Baller ID image.png" alt=""><figcaption><p>Account migration</p></figcaption></figure>
 
 ### How do i know the account migration system worked ?
 
